@@ -1,0 +1,34 @@
+<rs-slide style="position: absolute;" data-key="rs-4" data-title="The blast of details" data-in="o:0;" data-out="a:false;"> <img src="content/be-store/images/dummy.png" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="content/be-store/images/bethemestore-slider-bg1.webp">
+									<!--
+										-->
+									<rs-layer id="slider-2-slide-4-layer-0" data-type="text" data-rsp_ch="on" data-xy="x:c;y:t,t,m,m;yo:230px,230px,-30px,-30px;" data-text="w:normal;s:90,90,75,75;l:90,90,85,85;fw:500;" data-frame_0="y:-50,-50,-31,-31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:'Poppins';"> The blast of details </rs-layer>
+									<!--
+
+										-->
+									<rs-layer id="slider-2-slide-4-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:c;y:t,t,m,m;yo:170px,170px,-110px,-110px;" data-text="w:normal;s:35;l:45;fw:800;" data-frame_0="y:-50,-50,-31,-31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:'Poppins';"> Vedeo </rs-layer>
+									<!--
+
+										-->
+									<rs-layer id="slider-2-slide-4-layer-9" data-type="image" data-rsp_ch="on" data-xy="x:c;y:t,t,m,m;yo:40px,40px,-30px,-30px;" data-text="w:normal;s:20,20,12,12;l:0,0,15,15;" data-dim="w:393px,393px,421px,421px;h:436px,436px,467px,467px;" data-frame_0="y:50,50,31,31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" style="z-index:10;"><img src="content/be-store/images/dummy.png" class="tp-rs-img rs-lazyload" width="393" height="436" data-lazyload="content/be-store/images/bethemestore-slider-pic3.webp"> </rs-layer>
+									<!--
+										-->
+								</rs-slide>
+								<rs-slide style="position: absolute;" data-key="rs-3" data-title="Small and powerfull" data-anim="d:100;ms:800ms;" data-in="o:0;row:400;" data-out="a:false;"> <img src="content/be-store/images/dummy.png" alt="Small and powerfull" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="content/be-store/images/transparent.png" data-bg="c:#ebdef3;">
+									<!--
+										-->
+									<rs-layer id="slider-2-slide-3-layer-10" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="x:c;xo:-220px,-220px,0,-220px;yo:148px,148px,50px,50px;" data-text="w:normal;s:30;l:40,40,35,35;fw:900;" data-frame_0="x:-50,-50,-31,-31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" style="z-index:10;font-family:'Poppins';"> Denos T12 </rs-layer>
+									<!--
+
+										-->
+									<rs-layer id="slider-2-slide-3-layer-23" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="x:c;xo:-220px,-220px,0,-220px;yo:221px,221px,100px,100px;" data-text="w:normal;s:60;l:70;fw:500,500,600,600;a:center;" data-dim="w:450px,450px,600px,600px;" data-frame_0="x:-50,-50,-31,-31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:'Poppins';"> Small
+										<br> and powerfull </rs-layer>
+									<!--
+
+										--><a id="slider-2-slide-3-layer-25" class="rs-layer" href="content/be-store/product.html" target="_self" data-type="text" data-color="#08080e" data-rsp_ch="on" data-xy="x:c;xo:-220px,-220px,0,-220px;yo:400px,400px,270px,270px;" data-text="w:normal;s:16,16,24,24;l:26,26,20,20;fw:700;a:center;" data-dim="w:140px,140px,180px,180px;" data-padding="b:0,0,4,4;" data-border="bos:solid;boc:#08080e;bow:0,0,3px,0;" data-frame_0="x:-50,-50,-31,-31;" data-frame_1="sp:1000;" data-frame_999="o:0;st:w;" data-frame_hover="o:0.6;c:#08080e;boc:#08080e;bos:solid;bow:0,0,3px,0;" style="z-index:8;font-family:'Montserrat';">View product </a>
+									<!--
+
+										-->
+									<rs-layer id="slider-2-slide-3-layer-29" data-type="image" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:671px,671px,0,671px;y:b;" data-text="w:normal;s:20,20,12,12;l:0,0,15,15;" data-dim="h:500px,500px,450px,450px;" data-frame_0="y:50,50,31,31;" data-frame_1="e:power3.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:11;"><img src="content/be-store/images/dummy.png" class="tp-rs-img rs-lazyload" width="383" height="442" data-lazyload="content/be-store/images/bethemestore-slider-pic4.webp"> </rs-layer>
+									<!--
+										-->
+								</rs-slide>
