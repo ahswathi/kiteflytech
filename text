@@ -32,3 +32,37 @@
 									<!--
 										-->
 								</rs-slide>
+
+
+								<rs-slide style="position: absolute;" data-key="rs-6" data-title="Odimmo" data-anim="d:50;ms:100ms;f:end;" data-in="o:0;col:400;" data-out="a:false;"> <img src="content/be-store/images/dummy.png" alt="Odimmo" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="content/be-store/images/transparent.png" data-bg="c:#222540;">
+									<!--
+															-->
+									<rs-layer id="slider-3-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:80px,80px,0,80px;y:t,t,b,b;yo:180px,180px,361px,361px;" data-text="w:normal;s:20,20,12,12;l:0,0,15,15;" data-dim="w:116px,116px,100px,100px;h:29px,29px,25px,25px;" data-frame_999="o:0;st:w;" style="z-index:8;"><img src="content/be-store/images/dummy.png" class="tp-rs-img rs-lazyload" width="116" height="29" data-lazyload="content/be-store/images/bethemestore-home-logo1.webp"> </rs-layer>
+									<!--
+
+															-->
+									<rs-layer id="slider-3-slide-6-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:81px,81px,0,81px;y:t,t,b,b;yo:260px,260px,150px,150px;" data-text="w:normal;s:45,45,50,50;l:50,50,60,60;fw:500;a:left,left,center,center;" data-dim="w:450px,450px,500px,500px;" data-frame_999="o:0;st:w;" style="z-index:10;font-family:'Roboto';"> We primarily deals with entire range of  Electronics and ‘Heavy Earth Moving Machines’ manufactured. </rs-layer>
+									<!--
+
+															-->
+									<rs-layer id="slider-3-slide-6-layer-3" data-type="shape" data-rsp_ch="on" data-xy="x:r,r,c,c;xo:80px,80px,0,80px;yo:110px,110px,40px,40px;" data-text="w:normal;s:20,20,12,12;l:0,0,15,15;" data-dim="w:570px,570px,500px,500px;h:570px,570px,500px,500px;" data-frame_999="o:0;st:w;" style="z-index:15;background-color:rgba(0,0,0,0);">
+										<rs-bg-elem style="background: url('content/be-store/images/bethemestore-home-pic4.webp') no-repeat center center; background-size: cover;"></rs-bg-elem>
+									</rs-layer>
+									<!--
+
+															-->
+									<rs-layer id="slider-3-slide-6-layer-4" data-type="object" data-rsp_ch="on" data-xy="xo:50px,50px,31px,31px;yo:50px,50px,31px,31px;" data-text="w:normal;s:20,20,12,12;l:0,0,15,15;" data-frame_999="o:0;st:w;" style="z-index:12;font-family:'Roboto';"></rs-layer>
+									<!--
+
+															--><!-- <a id="slider-3-slide-6-layer-5" class="rs-layer" href="content/be-store/shop.html" target="_self" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:83px,83px,-88px,-88px;y:t,t,b,b;yo:567px,567px,55px,55px;" data-text="w:normal;s:16,16,25,25;l:26,26,35,35;fw:700;a:center;" data-dim="w:150px,150px,250px,250px;" data-border="bos:solid;boc:#fff;bow:0,0,3px,0;" data-frame_999="o:0;st:w;" data-frame_hover="o:0.6;boc:#fff;bos:solid;bow:0,0,3px,0;" style="z-index:9;font-family:'Montserrat';">Browse products </a> -->
+									<!--
+
+															-->
+									<rs-layer id="slider-3-slide-6-layer-7" data-type="button" data-rsp_ch="on" data-xy="xo:360px,360px,455px,455px;y:t,t,b,b;yo:550px,550px,50px,50px;" data-text="w:normal;s:25,25,30,30;l:45,45,50,50;fw:700;a:center;" data-dim="w:50px;h:50px;minw:50px,50px,none,50px;minh:50px,50px,none,50px;" data-actions='o:click;a:jumptoslide;slide:previous;' data-border="bos:solid;boc:#fff;bow:2px,2px,2px,2px;bor:50%,50%,50%,50%;" data-frame_999="o:0;st:w;" data-frame_hover="o:0.6;c:#fff;bgc:rgba(255,255,255,0);boc:#fff;bor:50%,50%,50%,50%;bos:solid;bow:2px,2px,2px,2px;" style="z-index:14;background-color:rgba(255,255,255,0);font-family:'Poppins';text-transform:uppercase;cursor:pointer;"> <i class="icon-left"></i> </rs-layer>
+									<!--
+
+															-->
+									<rs-layer id="slider-3-slide-6-layer-10" data-type="button" data-rsp_ch="on" data-xy="x:l,l,r,r;xo:430px,430px,212px,212px;y:t,t,b,b;yo:550px,550px,50px,50px;" data-text="w:normal;s:25,25,30,30;l:45,45,50,50;fw:700;a:center;" data-dim="w:50px;h:50px;minw:50px,50px,none,50px;minh:50px,50px,none,50px;" data-actions='o:click;a:jumptoslide;slide:next;' data-border="bos:solid;boc:#fff;bow:2px,2px,2px,2px;bor:50%,50%,50%,50%;" data-frame_999="o:0;st:w;" data-frame_hover="o:0.6;c:#fff;bgc:rgba(255,255,255,0);boc:#fff;bor:50%,50%,50%,50%;bos:solid;bow:2px,2px,2px,2px;" style="z-index:13;background-color:rgba(255,255,255,0);font-family:'Poppins';text-transform:uppercase;cursor:pointer;"> <i class="icon-right"></i> </rs-layer>
+									<!--
+															-->
+								</rs-slide>

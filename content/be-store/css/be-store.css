@@ -1130,6 +1130,9 @@
 		}
 	}
 	@media only screen and (max-width:479px) {
+		.mobrow{
+			justify-content: center;
+		}
 		body {
 			font-size: 13px;
 			line-height: 19px;
