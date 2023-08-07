@@ -6128,9 +6128,9 @@ html, body {
 	#Top_bar .logo #logo img {
 		height: auto!important
 	}
-	#Top_bar #logo img.logo-main {
-		display: none
-	}
+/* 	#Top_bar #logo img.logo-main {
+		display: block
+	} */
 	#Top_bar #logo img.logo-mobile {
 		display: inline-block
 	}
@@ -6141,7 +6141,7 @@ html, body {
 		display: none
 	}
 	.mobile-sticky #Top_bar.is-sticky #logo img.logo-mobile-sticky {
-		display: inline-block
+		display: none
 	}
 	.logo-overflow #Top_bar .logo {
 		height: auto!important
@@ -7340,7 +7340,11 @@ html, body {
 }
 
 /* #Tablet (Portrait) & Mobile (Landscape) 480 - 768 ----------------------- #Tablet (Portrait) & Mobile (Landscape) 480 - 768 */
-
+@media only screen and (max-width:767px) {
+	.sectionmob {
+		padding-top: 0px !important
+	}
+}
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	/* Respond */
 	#respond .comment-form-author {

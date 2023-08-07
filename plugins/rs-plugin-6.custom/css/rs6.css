@@ -566,7 +566,7 @@ rs-column-wrap.rs-layer-hidden,
 .rs-layer.rs-layer-hidden,
 .rs-layer-audio.rs-layer-hidden,
 .rs-parallax-wrap.rs-layer-hidden {	
-	visibility:hidden !important; 
+	/* visibility:hidden !important;  */
 	display:none !important
 }
 

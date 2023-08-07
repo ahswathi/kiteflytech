@@ -1,4 +1,5 @@
-.mfn-main-slider{position:relative;}
+.mfn-main-slider{position:relative;
+/* height: 600px; */}
 #Action_bar {
     position: relative;
 }
@@ -1130,6 +1131,12 @@
 		}
 	}
 	@media only screen and (max-width:479px) {
+		/* .mfn-main-slider{position:relative;
+			height: 300px;} */
+		.backimage{
+			background-image: none !important;
+			padding-bottom: 0px !important;
+		}
 		.mobrow{
 			justify-content: center;
 		}
@@ -3504,7 +3511,7 @@
 		border-color: rgba(0, 0, 0, .05)
 	}
 	#Top_bar #logo img.logo-sticky, #Top_bar #logo img.logo-mobile, #Top_bar #logo img.logo-mobile-sticky {
-		display: none
+		display:  none;
 	}
 	/* Section --------------------------------------------------------------------------- */
 
@@ -3550,7 +3557,7 @@
 			width: 100%!important;
 		}
 		.section_wrapper, .container, .four.columns .widget-area {
-			width: calc(100% - 67px)!important;
+			width: calc(100% - 0px)!important;
 		}
 		.section_wrapper .mcb-wrap, .section_wrapper .column, .container .column, .sections_group, .four.columns {
 			margin: 0;
@@ -3614,11 +3621,17 @@
 		.the-icons.span3 {
 			width: 50%;
 		}
+		/* .sliderheight{
+			height: 350px !important;
+		} */
 	}
 	@media only screen and max-width: 479px {
 		.the-icons.span3 {
 			width: 100%;
-		}
+		/*}
+		 .sliderheight{
+			height: 350px !important;
+		} */
 	}
 	.ui-tabs .ui-tabs-nav li.ui-state-active a:after, body:not(.woocommerce-page) table tr:hover td, body:not(.woocommerce-page) table tr:hover td a {
 		color: #fff;
@@ -3651,11 +3664,9 @@
 		padding-top: 40px;
 	}
 	@media only screen and (max-width: 767px) {
-		#Top_bar #logo img.logo-main {
-			display: none
-		}
+		
 		#Top_bar #logo img.logo-mobile {
-			display: inline-block
+			display: block
 		}
 		.logo-overflow #Top_bar .logo {
 			height: auto!important
